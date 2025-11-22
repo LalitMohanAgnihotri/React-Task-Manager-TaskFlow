@@ -1,0 +1,28 @@
+h1{
+  font-weight: 700;
+}
+
+.C{
+  height: 40px;
+  border-radius: 5px;
+}
+.B{
+  height: 40px;
+  padding:5px;
+  border-radius: 5px;
+}
+.Bt{
+  height: 35px;
+}
+.A{
+  font-size: large;
+  font-weight: 450;
+}
+
+.container{
+  padding: 20px;
+}
+
+
+
+
