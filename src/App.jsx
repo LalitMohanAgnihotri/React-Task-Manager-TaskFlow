@@ -9,18 +9,18 @@ import { useState } from "react";
 
 function App() {
   let initialtodoItems = [
-    {
-      name: "Learn React",
-      dueDate: "4/10/2024",
-    },
-    {
-      name: "Learn JavaScript",
-      dueDate: "5/10/2024",
-    },
-    {
-      name: "Learn HTML",
-      dueDate: "6/10/2024",
-    },
+    // {
+    //   name: "Learn React",
+    //   dueDate: "4/10/2024",
+    // },
+    // {
+    //   name: "Learn JavaScript",
+    //   dueDate: "5/10/2024",
+    // },
+    // {
+    //   name: "Learn HTML",
+    //   dueDate: "6/10/2024",
+    // },
   ];
   const [todoItems, setTodoItems] = useState(initialtodoItems);
   const hendelNewItem = (itemName, itemDueDate) => {
